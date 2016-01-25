@@ -13,7 +13,7 @@ been converted to BASE64 and them imbeded in the html.  This allows the
 clock to be self contained.
 
  * Requirements
-The only requirements is an internet browser.  The clock seems to work 
+The only requirements is an Internet web browser.  The clock seems to work 
 with all browsers with the exception of Microsoft Interrnet Explorer.
 The clock will work but the bottom half of the HP counter does not render.
 
