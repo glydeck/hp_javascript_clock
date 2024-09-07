@@ -1,5 +1,5 @@
 -----------------------------------------------
-## Web Clock Rendered as a Hewlett Packard Counter
+# Web Clock Rendered as a Hewlett Packard Counter
 #### Created glydeck 1/25/2016
 -----------------------------------------------
 ### Screen Shot
