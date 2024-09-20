@@ -12,6 +12,8 @@ supplied in the images folder.  The other version uses images that have
 been converted to BASE64 and them imbeded in the html.  This allows the 
 clock to be self contained.
 
+- [**See it Work**](http://glydeck.com/hpClock/hpClock.html)
+
 ### Requirements
 The only requirements is an Internet web browser.  The clock seems to work 
 with all browsers with the exception of Microsoft Internet Explorer.
