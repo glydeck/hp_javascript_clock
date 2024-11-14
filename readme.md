@@ -9,7 +9,7 @@
 This is a simple javascript clock that uses images to render the time.  
 There are two versions of the clock.  One version uses images that are 
 supplied in the images folder.  The other version uses images that have 
-been converted to BASE64 and them imbeded in the html.  This allows the 
+been converted to BASE64 and then imbeded in the html.  This allows the 
 clock to be self contained.
 
 - [**See it Work**](http://glydeck.com/hpClock/hpClock.html)
